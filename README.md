@@ -72,4 +72,4 @@ The platform enables visually impaired users to navigate through voice commands 
 
 **Miruthulasri A**
 
-Artificial Intelligence and Machine Learning Student
+B.E Artificial Intelligence and Machine Learning 
